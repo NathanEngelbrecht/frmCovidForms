@@ -1,0 +1,36 @@
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\frmForm.exe
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\frmForm.deps.json
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\frmForm.runtimeconfig.json
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\frmForm.runtimeconfig.dev.json
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\frmForm.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\ref\frmForm.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\bin\Debug\net5.0-windows\frmForm.pdb
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.csprojAssemblyReference.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.Form1.resources
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.csproj.GenerateResource.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.AssemblyInfoInputs.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.AssemblyInfo.cs
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.csproj.CoreCompileInputs.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\ref\frmForm.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.pdb
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\frmForm\frmForm\obj\Debug\net5.0-windows\frmForm.genruntimeconfig.cache
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.csprojAssemblyReference.cache
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.Form1.resources
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.csproj.GenerateResource.cache
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.AssemblyInfoInputs.cache
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.AssemblyInfo.cs
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.csproj.CoreCompileInputs.cache
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.dll
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\ref\frmForm.dll
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.pdb
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\frmForm.exe
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\frmForm.deps.json
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\frmForm.runtimeconfig.json
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\frmForm.runtimeconfig.dev.json
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\frmForm.dll
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\ref\frmForm.dll
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\bin\Debug\net5.0-windows\frmForm.pdb
+C:\Users\20118102\Documents\Visual Studio 2019\Work Code\frmCovid\frmForm\obj\Debug\net5.0-windows\frmForm.genruntimeconfig.cache
